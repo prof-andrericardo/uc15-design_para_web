@@ -1,0 +1,141 @@
+# 🖼️ Capítulo 3 – Edição de Imagens (Bitmap)
+
+As **imagens bitmap** (também chamadas de **raster**) são compostas por pixels e são as mais usadas em **fotografias e imagens para web**. Editar essas imagens é essencial para preparar materiais visuais de qualidade.
+
+------
+
+## 3.1 🎨 Produção de imagens bitmap
+
+- Imagens bitmap são criadas a partir de **pixels**.
+- São usadas em fotos digitais, pinturas digitais e montagens.
+- Programas como **Photoshop, GIMP ou Krita** são usados para criá-las e editá-las.
+- Quanto **maior a resolução**, maior a qualidade e o peso do arquivo.
+
+📌 **Exemplo:** uma foto tirada no celular é uma imagem bitmap, com milhões de pixels.
+
+------
+
+## 3.2 ✂️ Seleção e recorte de imagens
+
+- A **seleção** é usada para marcar apenas a área desejada da imagem.
+- O **recorte** remove o fundo ou partes indesejadas.
+- Ferramentas comuns: laço, varinha mágica, seleção retangular/elíptica.
+- Usado para **montagens, recorte de objetos ou troca de fundos**.
+
+📌 **Exemplo:** recortar uma pessoa da foto para colocar em outro cenário.
+
+------
+
+## 3.3 🗂️ Uso de camadas
+
+- **Camadas** funcionam como folhas transparentes empilhadas.
+- Permitem organizar diferentes elementos (texto, imagens, efeitos).
+- Podem ser **editadas individualmente** sem afetar o restante da imagem.
+- Uso comum: adicionar texto sobre uma imagem, ajustar brilho apenas em uma parte.
+
+📌 **Exemplo:** em um cartaz digital, cada elemento (foto, título, ícone) fica em uma camada.
+
+------
+
+## 3.4 🎭 Filtros
+
+- **Filtros** são efeitos aplicados para transformar a aparência da imagem.
+- Podem **suavizar, distorcer, dar textura, borrar ou deixar artístico**.
+- Devem ser usados com cuidado, para não comprometer a legibilidade e a naturalidade.
+
+📌 **Exemplo:** usar um filtro de desfoque (blur) para destacar apenas a parte principal da foto.
+
+------
+
+## 3.5 🛠️ Retoques de imagens
+
+- O **retoque** é usado para corrigir ou melhorar detalhes.
+- Técnicas comuns:
+  - Remover manchas ou imperfeições.
+  - Ajustar brilho, contraste e saturação.
+  - Clonar ou reparar partes da imagem.
+- Muito usado em **fotografia profissional** e **publicidade**.
+
+📌 **Exemplo:** corrigir olhos vermelhos em uma foto.
+
+------
+
+✅ **Conclusão:**
+ Na edição de imagens bitmap, é essencial dominar **camadas, seleções, filtros e retoques** para transformar imagens simples em materiais profissionais para web e design gráfico.
+
+------
+
+# 📘 Exercícios de Fixação – Capítulo 3
+
+------
+
+## 📝 Questões Dissertativas
+
+### **1.** Explique a importância do uso de **camadas** na edição de imagens. Dê um exemplo de como elas podem facilitar o trabalho de um designer.
+
+------
+
+### **2.** Por que é importante usar **filtros e retoques** com moderação na edição de imagens? Cite um exemplo de exagero que pode prejudicar a qualidade do trabalho.
+
+------
+
+## ❓ Múltipla Escolha (apenas uma correta)
+
+### **3.** Qual das opções representa melhor o uso de **seleção e recorte** em edição de imagens?
+
+- a) Ajustar o brilho de toda a imagem.
+- b) Aplicar um filtro de cor em camadas diferentes.
+- c) Escolher uma parte da imagem para isolar ou remover.
+- d) Criar um logotipo em vetor.
+- e) Aumentar a resolução de uma imagem.
+
+------
+
+### **4.** Em relação às **imagens bitmap**, é correto afirmar que:
+
+- a) São formadas por fórmulas matemáticas.
+- b) Podem ser ampliadas infinitamente sem perder qualidade.
+- c) São compostas por pixels e podem perder qualidade ao serem ampliadas.
+- d) São usadas apenas em logotipos e ícones.
+- e) São sempre menores que imagens vetoriais.
+
+------
+
+## 🔗 Associação de Colunas
+
+### **5.** Associe os conceitos da coluna A às suas definições na coluna B.
+
+**Coluna A – Conceitos**
+
+1. Camadas
+2. Filtros
+3. Retoques
+4. Seleção
+5. Bitmap
+
+**Coluna B – Definições**
+
+-  (   ) Correção de imperfeições ou ajustes finos em uma imagem.
+-  (   ) Imagem formada por pixels.
+-  (   ) Parte da imagem destacada para recorte ou edição.
+-  (   ) Efeitos aplicados para modificar a aparência da imagem.
+-  (   ) Organização de elementos em planos independentes.
+
+------
+
+## ✅ Verdadeiro ou Falso
+
+### **6.** Assinale a alternativa correta:
+
+1. O uso de camadas permite editar diferentes elementos sem alterar o restante da imagem.
+2. Filtros são usados apenas para recortar imagens.
+3. Retoques podem ser usados para melhorar a iluminação de uma fotografia.
+4. Imagens bitmap podem ser ampliadas indefinidamente sem perder qualidade.
+
+- a) V F V F
+- b) F V V F
+- c) V V F V
+- d) F F V V
+
+------
+
